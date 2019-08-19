@@ -1,5 +1,5 @@
 # Brian Barak
 
-Grade n/a
+Grade 10
 
-This is one sentence about me. This is another sentence about me. wow!!
+I'm taking Computer Science A this school year.
